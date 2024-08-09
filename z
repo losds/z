@@ -1,0 +1,2 @@
+Custom Label = 
+FORMAT([Your Numeric Measure], "$#,##0.0") & "K"
